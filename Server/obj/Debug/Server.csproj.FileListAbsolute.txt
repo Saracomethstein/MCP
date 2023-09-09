@@ -1,0 +1,144 @@
+C:\Users\adels\OneDrive\Рабочий стол\MCP2\Logger\Server\bin\Debug\Server.exe.config
+C:\Users\adels\OneDrive\Рабочий стол\MCP2\Logger\Server\bin\Debug\Server.exe
+C:\Users\adels\OneDrive\Рабочий стол\MCP2\Logger\Server\bin\Debug\Server.pdb
+C:\Users\adels\OneDrive\Рабочий стол\MCP2\Logger\Server\bin\Debug\EntityFramework.dll
+C:\Users\adels\OneDrive\Рабочий стол\MCP2\Logger\Server\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\adels\OneDrive\Рабочий стол\MCP2\Logger\Server\bin\Debug\Gma.System.MouseKeyHook.dll
+C:\Users\adels\OneDrive\Рабочий стол\MCP2\Logger\Server\bin\Debug\System.Data.SQLite.dll
+C:\Users\adels\OneDrive\Рабочий стол\MCP2\Logger\Server\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\adels\OneDrive\Рабочий стол\MCP2\Logger\Server\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\adels\OneDrive\Рабочий стол\MCP2\Logger\Server\bin\Debug\EntityFramework.xml
+C:\Users\adels\OneDrive\Рабочий стол\MCP2\Logger\Server\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\adels\OneDrive\Рабочий стол\MCP2\Logger\Server\bin\Debug\System.Data.SQLite.xml
+C:\Users\adels\OneDrive\Рабочий стол\MCP2\Logger\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\adels\OneDrive\Рабочий стол\MCP2\Logger\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\adels\OneDrive\Рабочий стол\MCP2\Logger\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\adels\OneDrive\Рабочий стол\MCP2\Logger\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\adels\OneDrive\Рабочий стол\MCP2\Logger\Server\obj\Debug\Server.exe
+C:\Users\adels\OneDrive\Рабочий стол\MCP2\Logger\Server\obj\Debug\Server.pdb
+C:\Users\adels\OneDrive\Рабочий стол\MCP2\MCP\Server\bin\Debug\Server.exe.config
+C:\Users\adels\OneDrive\Рабочий стол\MCP2\MCP\Server\bin\Debug\Server.exe
+C:\Users\adels\OneDrive\Рабочий стол\MCP2\MCP\Server\bin\Debug\Server.pdb
+C:\Users\adels\OneDrive\Рабочий стол\MCP2\MCP\Server\bin\Debug\EntityFramework.dll
+C:\Users\adels\OneDrive\Рабочий стол\MCP2\MCP\Server\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\adels\OneDrive\Рабочий стол\MCP2\MCP\Server\bin\Debug\Gma.System.MouseKeyHook.dll
+C:\Users\adels\OneDrive\Рабочий стол\MCP2\MCP\Server\bin\Debug\System.Data.SQLite.dll
+C:\Users\adels\OneDrive\Рабочий стол\MCP2\MCP\Server\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\adels\OneDrive\Рабочий стол\MCP2\MCP\Server\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\adels\OneDrive\Рабочий стол\MCP2\MCP\Server\bin\Debug\EntityFramework.xml
+C:\Users\adels\OneDrive\Рабочий стол\MCP2\MCP\Server\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\adels\OneDrive\Рабочий стол\MCP2\MCP\Server\bin\Debug\System.Data.SQLite.xml
+C:\Users\adels\OneDrive\Рабочий стол\MCP2\MCP\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\adels\OneDrive\Рабочий стол\MCP2\MCP\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\adels\OneDrive\Рабочий стол\MCP2\MCP\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\adels\OneDrive\Рабочий стол\MCP2\MCP\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\adels\OneDrive\Рабочий стол\MCP2\MCP\Server\obj\Debug\Server.exe
+C:\Users\adels\OneDrive\Рабочий стол\MCP2\MCP\Server\obj\Debug\Server.pdb
+C:\Users\adels\OneDrive\Рабочий стол\MCP2\MCP\Server\bin\Debug\Connect.dll
+C:\Users\adels\OneDrive\Рабочий стол\MCP2\MCP\Server\bin\Debug\Connect.pdb
+C:\Users\adels\OneDrive\Рабочий стол\MCP2\MCP\Server\bin\Debug\Connect.dll.config
+C:\Users\ASU\Desktop\Sevastianov\MCP2\MCP\Server\bin\Debug\Server.exe.config
+C:\Users\ASU\Desktop\Sevastianov\MCP2\MCP\Server\bin\Debug\Server.exe
+C:\Users\ASU\Desktop\Sevastianov\MCP2\MCP\Server\bin\Debug\Server.pdb
+C:\Users\ASU\Desktop\Sevastianov\MCP2\MCP\Server\bin\Debug\Connect.dll
+C:\Users\ASU\Desktop\Sevastianov\MCP2\MCP\Server\bin\Debug\EntityFramework.dll
+C:\Users\ASU\Desktop\Sevastianov\MCP2\MCP\Server\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASU\Desktop\Sevastianov\MCP2\MCP\Server\bin\Debug\Gma.System.MouseKeyHook.dll
+C:\Users\ASU\Desktop\Sevastianov\MCP2\MCP\Server\bin\Debug\System.Data.SQLite.dll
+C:\Users\ASU\Desktop\Sevastianov\MCP2\MCP\Server\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ASU\Desktop\Sevastianov\MCP2\MCP\Server\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ASU\Desktop\Sevastianov\MCP2\MCP\Server\bin\Debug\Connect.pdb
+C:\Users\ASU\Desktop\Sevastianov\MCP2\MCP\Server\bin\Debug\Connect.dll.config
+C:\Users\ASU\Desktop\Sevastianov\MCP2\MCP\Server\bin\Debug\EntityFramework.xml
+C:\Users\ASU\Desktop\Sevastianov\MCP2\MCP\Server\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASU\Desktop\Sevastianov\MCP2\MCP\Server\bin\Debug\System.Data.SQLite.xml
+C:\Users\ASU\Desktop\Sevastianov\MCP2\MCP\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\ASU\Desktop\Sevastianov\MCP2\MCP\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASU\Desktop\Sevastianov\MCP2\MCP\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\ASU\Desktop\Sevastianov\MCP2\MCP\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\ASU\Desktop\Sevastianov\MCP2\MCP\Server\obj\Debug\Server.exe
+C:\Users\ASU\Desktop\Sevastianov\MCP2\MCP\Server\obj\Debug\Server.pdb
+C:\Users\adels\OneDrive\Рабочий стол\MCP\Server\bin\Debug\Server.exe.config
+C:\Users\adels\OneDrive\Рабочий стол\MCP\Server\bin\Debug\Server.exe
+C:\Users\adels\OneDrive\Рабочий стол\MCP\Server\bin\Debug\Server.pdb
+C:\Users\adels\OneDrive\Рабочий стол\MCP\Server\bin\Debug\EntityFramework.dll
+C:\Users\adels\OneDrive\Рабочий стол\MCP\Server\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\adels\OneDrive\Рабочий стол\MCP\Server\bin\Debug\Gma.System.MouseKeyHook.dll
+C:\Users\adels\OneDrive\Рабочий стол\MCP\Server\bin\Debug\System.Data.SQLite.dll
+C:\Users\adels\OneDrive\Рабочий стол\MCP\Server\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\adels\OneDrive\Рабочий стол\MCP\Server\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\adels\OneDrive\Рабочий стол\MCP\Server\bin\Debug\EntityFramework.xml
+C:\Users\adels\OneDrive\Рабочий стол\MCP\Server\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\adels\OneDrive\Рабочий стол\MCP\Server\bin\Debug\System.Data.SQLite.xml
+C:\Users\adels\OneDrive\Рабочий стол\MCP\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\adels\OneDrive\Рабочий стол\MCP\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\adels\OneDrive\Рабочий стол\MCP\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\adels\OneDrive\Рабочий стол\MCP\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\adels\OneDrive\Рабочий стол\MCP\Server\obj\Debug\Server.exe
+C:\Users\adels\OneDrive\Рабочий стол\MCP\Server\obj\Debug\Server.pdb
+C:\Users\ASU\Desktop\Sevastianov\MCP\Server\bin\Debug\Server.exe.config
+C:\Users\ASU\Desktop\Sevastianov\MCP\Server\bin\Debug\Server.exe
+C:\Users\ASU\Desktop\Sevastianov\MCP\Server\bin\Debug\Server.pdb
+C:\Users\ASU\Desktop\Sevastianov\MCP\Server\bin\Debug\Connect.dll
+C:\Users\ASU\Desktop\Sevastianov\MCP\Server\bin\Debug\EntityFramework.dll
+C:\Users\ASU\Desktop\Sevastianov\MCP\Server\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASU\Desktop\Sevastianov\MCP\Server\bin\Debug\Gma.System.MouseKeyHook.dll
+C:\Users\ASU\Desktop\Sevastianov\MCP\Server\bin\Debug\System.Data.SQLite.dll
+C:\Users\ASU\Desktop\Sevastianov\MCP\Server\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ASU\Desktop\Sevastianov\MCP\Server\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ASU\Desktop\Sevastianov\MCP\Server\bin\Debug\Connect.pdb
+C:\Users\ASU\Desktop\Sevastianov\MCP\Server\bin\Debug\Connect.dll.config
+C:\Users\ASU\Desktop\Sevastianov\MCP\Server\bin\Debug\EntityFramework.xml
+C:\Users\ASU\Desktop\Sevastianov\MCP\Server\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASU\Desktop\Sevastianov\MCP\Server\bin\Debug\System.Data.SQLite.xml
+C:\Users\ASU\Desktop\Sevastianov\MCP\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\ASU\Desktop\Sevastianov\MCP\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASU\Desktop\Sevastianov\MCP\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\ASU\Desktop\Sevastianov\MCP\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\ASU\Desktop\Sevastianov\MCP\Server\obj\Debug\Server.exe
+C:\Users\ASU\Desktop\Sevastianov\MCP\Server\obj\Debug\Server.pdb
+C:\Users\adels\OneDrive\Рабочий стол\MCP\Server\bin\Debug\Connect.dll
+C:\Users\adels\OneDrive\Рабочий стол\MCP\Server\bin\Debug\Connect.pdb
+C:\Users\adels\OneDrive\Рабочий стол\MCP\Server\bin\Debug\Connect.dll.config
+C:\Users\adels\OneDrive\Desktop\MCP\Server\bin\Debug\Server.exe.config
+C:\Users\adels\OneDrive\Desktop\MCP\Server\bin\Debug\Server.exe
+C:\Users\adels\OneDrive\Desktop\MCP\Server\bin\Debug\Server.pdb
+C:\Users\adels\OneDrive\Desktop\MCP\Server\bin\Debug\Connect.dll
+C:\Users\adels\OneDrive\Desktop\MCP\Server\bin\Debug\EntityFramework.dll
+C:\Users\adels\OneDrive\Desktop\MCP\Server\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\adels\OneDrive\Desktop\MCP\Server\bin\Debug\Gma.System.MouseKeyHook.dll
+C:\Users\adels\OneDrive\Desktop\MCP\Server\bin\Debug\System.Data.SQLite.dll
+C:\Users\adels\OneDrive\Desktop\MCP\Server\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\adels\OneDrive\Desktop\MCP\Server\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\adels\OneDrive\Desktop\MCP\Server\bin\Debug\Connect.pdb
+C:\Users\adels\OneDrive\Desktop\MCP\Server\bin\Debug\Connect.dll.config
+C:\Users\adels\OneDrive\Desktop\MCP\Server\bin\Debug\EntityFramework.xml
+C:\Users\adels\OneDrive\Desktop\MCP\Server\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\adels\OneDrive\Desktop\MCP\Server\bin\Debug\System.Data.SQLite.xml
+C:\Users\adels\OneDrive\Desktop\MCP\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\adels\OneDrive\Desktop\MCP\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\adels\OneDrive\Desktop\MCP\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\adels\OneDrive\Desktop\MCP\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\adels\OneDrive\Desktop\MCP\Server\obj\Debug\Server.exe
+C:\Users\adels\OneDrive\Desktop\MCP\Server\obj\Debug\Server.pdb
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\Проекты С#\MCP\Server\bin\Debug\Server.exe.config
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\Проекты С#\MCP\Server\bin\Debug\Server.exe
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\Проекты С#\MCP\Server\bin\Debug\Server.pdb
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\Проекты С#\MCP\Server\bin\Debug\Connect.dll
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\Проекты С#\MCP\Server\bin\Debug\EntityFramework.dll
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\Проекты С#\MCP\Server\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\Проекты С#\MCP\Server\bin\Debug\Gma.System.MouseKeyHook.dll
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\Проекты С#\MCP\Server\bin\Debug\System.Data.SQLite.dll
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\Проекты С#\MCP\Server\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\Проекты С#\MCP\Server\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\Проекты С#\MCP\Server\bin\Debug\Connect.pdb
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\Проекты С#\MCP\Server\bin\Debug\Connect.dll.config
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\Проекты С#\MCP\Server\bin\Debug\EntityFramework.xml
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\Проекты С#\MCP\Server\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\Проекты С#\MCP\Server\bin\Debug\System.Data.SQLite.xml
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\Проекты С#\MCP\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\Проекты С#\MCP\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\Проекты С#\MCP\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\Проекты С#\MCP\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\Проекты С#\MCP\Server\obj\Debug\Server.exe
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\Проекты С#\MCP\Server\obj\Debug\Server.pdb

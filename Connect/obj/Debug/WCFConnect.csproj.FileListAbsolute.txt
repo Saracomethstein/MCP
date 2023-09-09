@@ -1,0 +1,7 @@
+C:\Users\adels\OneDrive\Рабочий стол\MCP\Connect\obj\Debug\WCFConnect.csproj.AssemblyReference.cache
+C:\Users\adels\OneDrive\Рабочий стол\MCP\Connect\obj\Debug\WCFConnect.csproj.CoreCompileInputs.cache
+C:\Users\adels\OneDrive\Рабочий стол\MCP\Connect\obj\Debug\Connect.dll
+C:\Users\adels\OneDrive\Рабочий стол\MCP\Connect\obj\Debug\Connect.pdb
+C:\Users\adels\OneDrive\Рабочий стол\MCP\Connect\bin\Debug\Connect.dll.config
+C:\Users\adels\OneDrive\Рабочий стол\MCP\Connect\bin\Debug\Connect.dll
+C:\Users\adels\OneDrive\Рабочий стол\MCP\Connect\bin\Debug\Connect.pdb

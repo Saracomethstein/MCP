@@ -1,0 +1,78 @@
+C:\Users\adels\OneDrive\Рабочий стол\MCP2\MCP\Connect\bin\Debug\Connect.dll.config
+C:\Users\adels\OneDrive\Рабочий стол\MCP2\MCP\Connect\bin\Debug\Connect.dll
+C:\Users\adels\OneDrive\Рабочий стол\MCP2\MCP\Connect\bin\Debug\Connect.pdb
+C:\Users\adels\OneDrive\Рабочий стол\MCP2\MCP\Connect\obj\Debug\Connect.csproj.AssemblyReference.cache
+C:\Users\adels\OneDrive\Рабочий стол\MCP2\MCP\Connect\obj\Debug\Connect.csproj.CoreCompileInputs.cache
+C:\Users\adels\OneDrive\Рабочий стол\MCP2\MCP\Connect\obj\Debug\Connect.dll
+C:\Users\adels\OneDrive\Рабочий стол\MCP2\MCP\Connect\obj\Debug\Connect.pdb
+C:\Users\ASU\Desktop\Sevastianov\MCP2\MCP\Connect\bin\Debug\Connect.dll.config
+C:\Users\ASU\Desktop\Sevastianov\MCP2\MCP\Connect\bin\Debug\Connect.dll
+C:\Users\ASU\Desktop\Sevastianov\MCP2\MCP\Connect\bin\Debug\Connect.pdb
+C:\Users\ASU\Desktop\Sevastianov\MCP2\MCP\Connect\obj\Debug\Connect.csproj.AssemblyReference.cache
+C:\Users\ASU\Desktop\Sevastianov\MCP2\MCP\Connect\obj\Debug\Connect.csproj.CoreCompileInputs.cache
+C:\Users\ASU\Desktop\Sevastianov\MCP2\MCP\Connect\obj\Debug\Connect.dll
+C:\Users\ASU\Desktop\Sevastianov\MCP2\MCP\Connect\obj\Debug\Connect.pdb
+C:\Users\adels\OneDrive\Рабочий стол\MCP\Connect\bin\Debug\Connect.dll.config
+C:\Users\adels\OneDrive\Рабочий стол\MCP\Connect\bin\Debug\Connect.dll
+C:\Users\adels\OneDrive\Рабочий стол\MCP\Connect\bin\Debug\Connect.pdb
+C:\Users\adels\OneDrive\Рабочий стол\MCP\Connect\obj\Debug\Connect.csproj.AssemblyReference.cache
+C:\Users\adels\OneDrive\Рабочий стол\MCP\Connect\obj\Debug\Connect.csproj.CoreCompileInputs.cache
+C:\Users\adels\OneDrive\Рабочий стол\MCP\Connect\obj\Debug\Connect.dll
+C:\Users\adels\OneDrive\Рабочий стол\MCP\Connect\obj\Debug\Connect.pdb
+C:\Users\adels\OneDrive\Рабочий стол\MCP\Connect\bin\Debug\EntityFramework.dll
+C:\Users\adels\OneDrive\Рабочий стол\MCP\Connect\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\adels\OneDrive\Рабочий стол\MCP\Connect\bin\Debug\System.Data.SQLite.dll
+C:\Users\adels\OneDrive\Рабочий стол\MCP\Connect\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\adels\OneDrive\Рабочий стол\MCP\Connect\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\adels\OneDrive\Рабочий стол\MCP\Connect\bin\Debug\EntityFramework.xml
+C:\Users\adels\OneDrive\Рабочий стол\MCP\Connect\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\adels\OneDrive\Рабочий стол\MCP\Connect\bin\Debug\System.Data.SQLite.xml
+C:\Users\adels\OneDrive\Рабочий стол\MCP\Connect\obj\Debug\Connect.csproj.CopyComplete
+C:\Users\ASU\Desktop\Sevastianov\MCP\Connect\bin\Debug\Connect.dll.config
+C:\Users\ASU\Desktop\Sevastianov\MCP\Connect\bin\Debug\Connect.dll
+C:\Users\ASU\Desktop\Sevastianov\MCP\Connect\bin\Debug\Connect.pdb
+C:\Users\ASU\Desktop\Sevastianov\MCP\Connect\bin\Debug\EntityFramework.dll
+C:\Users\ASU\Desktop\Sevastianov\MCP\Connect\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASU\Desktop\Sevastianov\MCP\Connect\bin\Debug\System.Data.SQLite.dll
+C:\Users\ASU\Desktop\Sevastianov\MCP\Connect\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ASU\Desktop\Sevastianov\MCP\Connect\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ASU\Desktop\Sevastianov\MCP\Connect\bin\Debug\EntityFramework.xml
+C:\Users\ASU\Desktop\Sevastianov\MCP\Connect\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASU\Desktop\Sevastianov\MCP\Connect\bin\Debug\System.Data.SQLite.xml
+C:\Users\ASU\Desktop\Sevastianov\MCP\Connect\obj\Debug\Connect.csproj.AssemblyReference.cache
+C:\Users\ASU\Desktop\Sevastianov\MCP\Connect\obj\Debug\Connect.csproj.CoreCompileInputs.cache
+C:\Users\ASU\Desktop\Sevastianov\MCP\Connect\obj\Debug\Connect.csproj.CopyComplete
+C:\Users\ASU\Desktop\Sevastianov\MCP\Connect\obj\Debug\Connect.dll
+C:\Users\ASU\Desktop\Sevastianov\MCP\Connect\obj\Debug\Connect.pdb
+C:\Users\adels\OneDrive\Desktop\MCP\Connect\bin\Debug\Connect.dll.config
+C:\Users\adels\OneDrive\Desktop\MCP\Connect\bin\Debug\Connect.dll
+C:\Users\adels\OneDrive\Desktop\MCP\Connect\bin\Debug\Connect.pdb
+C:\Users\adels\OneDrive\Desktop\MCP\Connect\bin\Debug\EntityFramework.dll
+C:\Users\adels\OneDrive\Desktop\MCP\Connect\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\adels\OneDrive\Desktop\MCP\Connect\bin\Debug\System.Data.SQLite.dll
+C:\Users\adels\OneDrive\Desktop\MCP\Connect\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\adels\OneDrive\Desktop\MCP\Connect\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\adels\OneDrive\Desktop\MCP\Connect\bin\Debug\EntityFramework.xml
+C:\Users\adels\OneDrive\Desktop\MCP\Connect\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\adels\OneDrive\Desktop\MCP\Connect\bin\Debug\System.Data.SQLite.xml
+C:\Users\adels\OneDrive\Desktop\MCP\Connect\obj\Debug\Connect.csproj.AssemblyReference.cache
+C:\Users\adels\OneDrive\Desktop\MCP\Connect\obj\Debug\Connect.csproj.CoreCompileInputs.cache
+C:\Users\adels\OneDrive\Desktop\MCP\Connect\obj\Debug\Connect.csproj.CopyComplete
+C:\Users\adels\OneDrive\Desktop\MCP\Connect\obj\Debug\Connect.dll
+C:\Users\adels\OneDrive\Desktop\MCP\Connect\obj\Debug\Connect.pdb
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\Проекты С#\MCP\Connect\bin\Debug\Connect.dll.config
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\Проекты С#\MCP\Connect\bin\Debug\Connect.dll
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\Проекты С#\MCP\Connect\bin\Debug\Connect.pdb
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\Проекты С#\MCP\Connect\bin\Debug\EntityFramework.dll
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\Проекты С#\MCP\Connect\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\Проекты С#\MCP\Connect\bin\Debug\System.Data.SQLite.dll
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\Проекты С#\MCP\Connect\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\Проекты С#\MCP\Connect\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\Проекты С#\MCP\Connect\bin\Debug\EntityFramework.xml
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\Проекты С#\MCP\Connect\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\Проекты С#\MCP\Connect\bin\Debug\System.Data.SQLite.xml
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\Проекты С#\MCP\Connect\obj\Debug\Connect.csproj.AssemblyReference.cache
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\Проекты С#\MCP\Connect\obj\Debug\Connect.csproj.CoreCompileInputs.cache
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\Проекты С#\MCP\Connect\obj\Debug\Connect.csproj.CopyComplete
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\Проекты С#\MCP\Connect\obj\Debug\Connect.dll
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\Проекты С#\MCP\Connect\obj\Debug\Connect.pdb
