@@ -230,3 +230,36 @@ C:\Users\adels\OneDrive\Desktop\All\Dev\C#\Проекты С#\MCP\Client\obj\Deb
 C:\Users\adels\OneDrive\Desktop\All\Dev\C#\Проекты С#\MCP\Client\obj\Debug\Client.csproj.CopyComplete
 C:\Users\adels\OneDrive\Desktop\All\Dev\C#\Проекты С#\MCP\Client\obj\Debug\Client.exe
 C:\Users\adels\OneDrive\Desktop\All\Dev\C#\Проекты С#\MCP\Client\obj\Debug\Client.pdb
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\GitHub\MCP\Client\bin\Debug\Client.exe.config
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\GitHub\MCP\Client\bin\Debug\Client.exe
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\GitHub\MCP\Client\bin\Debug\Client.pdb
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\GitHub\MCP\Client\bin\Debug\Connect.dll
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\GitHub\MCP\Client\bin\Debug\EntityFramework.dll
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\GitHub\MCP\Client\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\GitHub\MCP\Client\bin\Debug\Gma.System.MouseKeyHook.dll
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\GitHub\MCP\Client\bin\Debug\System.Data.SQLite.dll
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\GitHub\MCP\Client\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\GitHub\MCP\Client\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\GitHub\MCP\Client\bin\Debug\Connect.pdb
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\GitHub\MCP\Client\bin\Debug\Connect.dll.config
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\GitHub\MCP\Client\bin\Debug\EntityFramework.xml
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\GitHub\MCP\Client\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\GitHub\MCP\Client\bin\Debug\System.Data.SQLite.xml
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\GitHub\MCP\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\GitHub\MCP\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\GitHub\MCP\Client\obj\Debug\Views\LoginWindowView.g.cs
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\GitHub\MCP\Client\obj\Debug\Views\MainWindowView.g.cs
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\GitHub\MCP\Client\obj\Debug\App.g.cs
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\GitHub\MCP\Client\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\GitHub\MCP\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\GitHub\MCP\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\GitHub\MCP\Client\obj\Debug\App.baml
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\GitHub\MCP\Client\obj\Debug\Views\LoginWindowView.baml
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\GitHub\MCP\Client\obj\Debug\Views\MainWindowView.baml
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\GitHub\MCP\Client\obj\Debug\Client.g.resources
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\GitHub\MCP\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\GitHub\MCP\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\GitHub\MCP\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\GitHub\MCP\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\GitHub\MCP\Client\obj\Debug\Client.exe
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\GitHub\MCP\Client\obj\Debug\Client.pdb
