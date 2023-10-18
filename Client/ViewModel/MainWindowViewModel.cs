@@ -30,6 +30,7 @@ namespace Client.ViewModel
             YCor = "0000";
         }
 
+        #region Properties
         public string XCor
         {
             get { return _xCor; }
@@ -88,6 +89,7 @@ namespace Client.ViewModel
                 window.Close();
             }
         }
+        #endregion
 
         #region Координты мыши 
 
@@ -146,24 +148,7 @@ namespace Client.ViewModel
         public RelayCommand GetSatartCommand
             => _satartCommand ?? (_satartCommand = new RelayCommand(() =>
             {
-                if (StartStopButton == "Start")
-                {
-                    StartStopButton = "Stop";
-                    Subscribe(Hook.GlobalEvents());
-                    Service.Message("Database recording has started.");
-                }
-                else if (StartStopButton == "Stop")
-                {
-                    StartStopButton = "Start";
-                    XCor = "0000";
-                    YCor = "0000";
-                    Unsubcribe();
-                    Service.Message("Writing to the database has ended.");
-                }
-                else
-                {
-                    System.Windows.MessageBox.Show("Error!");
-                }
+                StartOrStop();
             }));
 
         public RelayCommand GetCloseAppCommand
@@ -203,5 +188,30 @@ namespace Client.ViewModel
             }));
 
         #endregion
+
+        private void StartOrStop()
+        {
+            switch (StartStopButton)
+            {
+                case "Start":
+                    StartStopButton = "Stop";
+                    Subscribe(Hook.GlobalEvents());
+                    Service.Message("Database recording has started.");
+                    break;
+
+                case "Stop":
+                    StartStopButton = "Start";
+                    XCor = "0000";
+                    YCor = "0000";
+                    Unsubcribe();
+                    Service.Message("Writing to the database has ended.");
+                    break;
+
+                default:
+                    System.Windows.MessageBox.Show("Error!");
+                    break;
+            }
+        }
+
     }
 }
