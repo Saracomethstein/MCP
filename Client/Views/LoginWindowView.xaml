@@ -11,9 +11,11 @@
         WindowStartupLocation="CenterScreen"
         WindowStyle="None"
         ResizeMode="NoResize">
+    
     <Window.DataContext>
         <local:LoginWindowViewModel/>
     </Window.DataContext>
+    
     <Grid Margin="0,0,0,0">
 
         <Button x:Name="ExitBT"

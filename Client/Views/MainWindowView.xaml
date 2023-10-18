@@ -11,6 +11,7 @@
         WindowStyle="None"
         WindowState="Normal"
         ResizeMode="NoResize">
+    
     <Window.DataContext>
         <local:MainWindowViewModel/>
     </Window.DataContext>
@@ -83,6 +84,7 @@
                                     Width="Auto"
                                     Binding="{Binding Path=Coordinates}"/>
             </DataGrid.Columns>
+            
         </DataGrid>
 
         <StackPanel Grid.Row="2"

@@ -8,8 +8,8 @@ namespace Server.DbConnect
         public const string filePath = @"C:\ProgramData\cursorposition.db";
 
         public static SQLiteConnection connection = new SQLiteConnection($"Data Source = {filePath}; Version = 3; New = True; Compress = True;");
-        
-        #region Создание и подключение к БД
+
+        #region Creating and connecting to the database
         public static void GetDbConnection()
         {
             Write("Connecting to the database.");
@@ -67,7 +67,7 @@ namespace Server.DbConnect
         }
         #endregion
 
-        #region Насстройки консоли
+        #region Console Settings
         public static void Write(string str)
         {
             Console.ForegroundColor = ConsoleColor.Green;
