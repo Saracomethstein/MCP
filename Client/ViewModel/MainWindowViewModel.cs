@@ -18,16 +18,14 @@ namespace Client.ViewModel
         private RelayCommand _minimizedCommand;
         private RelayCommand _clearDataGridCommand;
         private RelayCommand _choseUserCommand;
-
         private string _xCor;
         private string _yCor;
         private string _startStopButton;
-
         private ObservableCollection<TableInfo> _tableInfnos;
 
         public MainWindowViewModel()
         {
-            StartStopButton = "Начать";
+            StartStopButton = "Start";
             XCor = "0000";
             YCor = "0000";
         }
@@ -148,19 +146,19 @@ namespace Client.ViewModel
         public RelayCommand GetSatartCommand
             => _satartCommand ?? (_satartCommand = new RelayCommand(() =>
             {
-                if (StartStopButton == "Начать")
+                if (StartStopButton == "Start")
                 {
-                    StartStopButton = "Завершить";
+                    StartStopButton = "Stop";
                     Subscribe(Hook.GlobalEvents());
-                    Service.Message("Запись в базу данных началась.");
+                    Service.Message("Database recording has started.");
                 }
-                else if (StartStopButton == "Завершить")
+                else if (StartStopButton == "Stop")
                 {
-                    StartStopButton = "Начать";
+                    StartStopButton = "Start";
                     XCor = "0000";
                     YCor = "0000";
                     Unsubcribe();
-                    Service.Message("Запись в базу данных закончилась.");
+                    Service.Message("Writing to the database has ended.");
                 }
                 else
                 {
@@ -171,7 +169,7 @@ namespace Client.ViewModel
         public RelayCommand GetCloseAppCommand
             => _closeAppCommand ?? (_closeAppCommand = new RelayCommand(() =>
             {
-                Service.Message("Клиент завершил работу.");
+                Service.Message("The client has completed its work.");
                 Service.DeleteEvents();
                 Service.DeleteUsers();
                 System.Windows.Application.Current.Shutdown();
@@ -194,14 +192,14 @@ namespace Client.ViewModel
                 nextCounter = 1;
                 TableInfos.Clear();
                 Service.DeleteEvents();
-                Service.Message("Данные таблицы `events` удалены.");
+                Service.Message("The `events` table data has been deleted.");
             }));
 
         public RelayCommand GetChoseUserCommand
             => _choseUserCommand ?? (_choseUserCommand = new RelayCommand(() =>
             {
                 GetChoseUser();
-                Service.Message("Пользователь вышел.");
+                Service.Message("The user has logged out.");
             }));
 
         #endregion

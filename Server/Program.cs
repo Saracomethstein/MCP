@@ -15,7 +15,7 @@ namespace Server
 
         private static bool CheckConnection()
         {
-            Write("Подключение к серверу...");
+            Write("Connecting to the server...");
             try
             {
                 var serviceAddress = "localhost:8301";
@@ -26,12 +26,12 @@ namespace Server
                 host.AddServiceEndpoint(typeof(IServerConnect), serverBinding, "");
 
                 host.Open();
-                Write("Хост подключён.");
+                Write("The host is connected.");
                 Connect.GetDbConnection();
             }
             catch (Exception ex)
             {
-                ErrorWrite("Не удалось подключиться к хосту.");
+                ErrorWrite("Failed to connect to host.");
                 ErrorWrite($"{ex}");
             }
             return true;

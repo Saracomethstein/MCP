@@ -44,7 +44,7 @@
                Background="#FFDDDDDD"/>
 
         <Button Style="{DynamicResource MainButtonStyle}"
-                Content="Войти"
+                Content="Sign in"
                 FontSize="20"
                 FontFamily="Helvetica"
                 HorizontalAlignment="Center"
@@ -55,7 +55,7 @@
                 Background="LightGray"
                 Command="{Binding LoginUsersCommand}"/>
 
-        <Label Content="Добро пожаловать!"
+        <Label Content="Welcome!"
                HorizontalAlignment="Center"
                FontSize="22"
                FontWeight="Bold"

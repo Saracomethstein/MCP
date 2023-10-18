@@ -12,9 +12,6 @@ namespace Client.ViewModel
         public string Login { get; set; }
         public string Password { get; set; }
 
-        /// <summary>
-        /// Проверка наличия пользователя в базе данных.
-        /// </summary>
         private void LoginUsers()
         {
             var user = new User();
@@ -32,12 +29,12 @@ namespace Client.ViewModel
                     main.Show();
                     window.Close();
                 }
-                Service.Message($"Авторизация пользователя {Login} прошла успешно.");
+                Service.Message($"User {Login} authorization was successful.");
             }
             else
             {
-                MessageBox.Show("Пользователь не найден.");
-                Service.Message("Пользователь не найден.");
+                MessageBox.Show("User is not found.");
+                Service.Message("User is not found.");
             }
         }
 
@@ -54,7 +51,7 @@ namespace Client.ViewModel
             {
                 Service.DeleteEvents();
                 Service.DeleteUsers();
-                Service.Message("Клиент завершил работу.");
+                Service.Message("The client has completed its work.");
                 Application.Current.Shutdown();
             }));
         

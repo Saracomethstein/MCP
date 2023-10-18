@@ -12,11 +12,11 @@ namespace Server.DbConnect
         #region Создание и подключение к БД
         public static void GetDbConnection()
         {
-            Write("Подключение к БД.");
+            Write("Connecting to the database.");
             try
             {
                 connection.Open();
-                Write("Подключение прошло успешно.");
+                Write("The connection was successful.");
 
                 CreateTables(connection);
                 InsertDataUsers(connection);

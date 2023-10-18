@@ -67,19 +67,19 @@
                   ScrollViewer.VerticalScrollBarVisibility="Hidden">
             
             <DataGrid.Columns>
-                <DataGridTextColumn Header="Номер"
+                <DataGridTextColumn Header="Number"
                                     Width="100"
                                     Binding="{Binding Path=Counter}"/>
 
-                <DataGridTextColumn Header="Дата"
+                <DataGridTextColumn Header="Date"
                                     Width="150"
                                     Binding="{Binding Path=Date}"/>
 
-                <DataGridTextColumn Header="Операция"
+                <DataGridTextColumn Header="Operation"
                                     Width="200"
                                     Binding="{Binding Path=Event}"/>
 
-                <DataGridTextColumn Header="Координаты"
+                <DataGridTextColumn Header="Coordinates"
                                     Width="Auto"
                                     Binding="{Binding Path=Coordinates}"/>
             </DataGrid.Columns>
@@ -139,7 +139,7 @@
                      Height="30"
                      Margin="10,0,0,10"/>
 
-            <Button Content="Отчистить"
+            <Button Content="Clear"
                     x:Name="ClearBT"
                     Width="140"
                     Height="30"
@@ -149,7 +149,7 @@
                     Command="{Binding GetClearDataGridCommand}"
                     Style="{DynamicResource MainButtonStyle}"/>
 
-            <Button Content="Сменить пользователя"
+            <Button Content="Change user"
                     x:Name="ChangeUserTB"
                     Width="150"
                     Height="30"
