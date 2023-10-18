@@ -3,7 +3,6 @@ using Client.Views;
 using Gma.System.MouseKeyHook;
 using System;
 using System.Collections.ObjectModel;
-using System.Windows;
 using System.Windows.Forms;
 
 namespace Client.ViewModel
@@ -11,7 +10,6 @@ namespace Client.ViewModel
     internal class MainWindowViewModel : ViewModelBase
     {
         public int nextCounter = 1;
-
         private IKeyboardMouseEvents _mEvents;
         private RelayCommand _satartCommand;
         private RelayCommand _closeAppCommand;
@@ -77,21 +75,9 @@ namespace Client.ViewModel
                 NotifyPropertyChanged(nameof(TableInfos));
             }
         }
-
-        private void GetChoseUser()
-        {
-            var login = new LoginWindowView();
-            var window = System.Windows.Application.Current.Windows[0];
-
-            if (window != null)
-            {
-                login.Show();
-                window.Close();
-            }
-        }
         #endregion
 
-        #region Координты мыши 
+        #region Mouse Coordinates
 
         private void Subscribe(IKeyboardMouseEvents events)
         {
@@ -154,37 +140,25 @@ namespace Client.ViewModel
         public RelayCommand GetCloseAppCommand
             => _closeAppCommand ?? (_closeAppCommand = new RelayCommand(() =>
             {
-                Service.Message("The client has completed its work.");
-                Service.DeleteEvents();
-                Service.DeleteUsers();
-                System.Windows.Application.Current.Shutdown();
+                GeneralCommands.CloseApp();
             }));
 
         public RelayCommand GetMinimizedCommand
             => _minimizedCommand ?? (_minimizedCommand = new RelayCommand(() =>
             {
-                var window = System.Windows.Application.Current.Windows[0];
-                
-                if (window != null)
-                {
-                    window.WindowState = WindowState.Minimized;
-                }
+                GeneralCommands.MiniApp();
             }));
 
         public RelayCommand GetClearDataGridCommand
             => _clearDataGridCommand ?? (_clearDataGridCommand = new RelayCommand(() =>
             {
-                nextCounter = 1;
-                TableInfos.Clear();
-                Service.DeleteEvents();
-                Service.Message("The `events` table data has been deleted.");
+                ClearDataBase();
             }));
 
         public RelayCommand GetChoseUserCommand
             => _choseUserCommand ?? (_choseUserCommand = new RelayCommand(() =>
             {
                 GetChoseUser();
-                Service.Message("The user has logged out.");
             }));
 
         #endregion
@@ -213,5 +187,25 @@ namespace Client.ViewModel
             }
         }
 
+        private void ClearDataBase()
+        {
+            nextCounter = 1;
+            TableInfos.Clear();
+            Service.DeleteEvents();
+            Service.Message("The `events` table data has been deleted.");
+        }
+
+        private void GetChoseUser()
+        {
+            var login = new LoginWindowView();
+            var window = System.Windows.Application.Current.Windows[0];
+
+            if (window != null)
+            {
+                login.Show();
+                window.Close();
+                Service.Message("The user has logged out.");
+            }
+        }
     }
 }

@@ -49,20 +49,13 @@ namespace Client.ViewModel
         public RelayCommand GetCloseAppCommand
             => _closeAppCommand ?? (_closeAppCommand = new RelayCommand(() =>
             {
-                Service.DeleteEvents();
-                Service.DeleteUsers();
-                Service.Message("The client has completed its work.");
-                Application.Current.Shutdown();
+                GeneralCommands.CloseApp();
             }));
         
         public RelayCommand GetMinimizedCommand
             => _minimizedCommand ?? (_minimizedCommand = new RelayCommand(() =>
             {
-                var window = System.Windows.Application.Current.Windows[0];
-                if (window != null)
-                {
-                    window.WindowState = WindowState.Minimized;
-                }
+                GeneralCommands.MiniApp();
             }));
 
         #endregion
