@@ -43,18 +43,6 @@
                MouseLeftButtonDown="Label_MouseLeftButtonDown"
                Background="#FFDDDDDD"/>
 
-        <Button Style="{DynamicResource MainButtonStyle}"
-                Content="Sign in"
-                FontSize="20"
-                FontFamily="Helvetica"
-                HorizontalAlignment="Center"
-                VerticalAlignment="Top"
-                Height="40"
-                Margin="0,294,0,0"
-                Width="134"
-                Background="LightGray"
-                Command="{Binding LoginUsersCommand}"/>
-
         <Label Content="Welcome!"
                HorizontalAlignment="Center"
                FontSize="22"
@@ -80,14 +68,26 @@
                  Width="232"/>
 
         <TextBox  Text="{Binding Password}"
-                      HorizontalAlignment="Center"
-                      VerticalAlignment="Top" 
-                      FontSize="20" 
-                      HorizontalContentAlignment="Center"
-                      Height="43" 
-                      Margin="0,217,0,0"
-                      VerticalContentAlignment="Center" 
-                      Width="232"/>
+                  HorizontalAlignment="Center"
+                  VerticalAlignment="Top" 
+                  FontSize="20" 
+                  HorizontalContentAlignment="Center"
+                  Height="43" 
+                  Margin="0,217,0,0"
+                  VerticalContentAlignment="Center" 
+                  Width="232"/>
+
+        <Button Style="{DynamicResource MainButtonStyle}"
+                Content="Sign in"
+                FontSize="20"
+                FontFamily="Helvetica"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Top"
+                Height="40"
+                Margin="0,294,0,0"
+                Width="134"
+                Background="LightGray"
+                Command="{Binding LoginUsersCommand}"/>
 
     </Grid>
 </Window>
