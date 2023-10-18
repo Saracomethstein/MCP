@@ -14,32 +14,38 @@ namespace Client.ViewModel
 
         private void LoginUsers()
         {
-            var user = new User();
-
-            user.Name = Login;
-            user.Password = Password;
-
-            if (Service.CheckUser(user.Name, user.Password))
+            var user = new User
             {
-                var main = new MainWindowView();
-                var window = Application.Current.Windows[0];
+                Name = Login,
+                Password = Password
+            };
 
-                if (window != null)
-                {
-                    main.Show();
-                    window.Close();
-                }
-                Service.Message($"User {Login} authorization was successful.");
-            }
-            else
+            switch (Service.CheckUser(user.Name, user.Password))
             {
-                MessageBox.Show("User is not found.");
-                Service.Message("User is not found.");
+                case true:
+                    SwitchWindow();
+                    break;
+                default:
+                    MessageBox.Show("User is not found.");
+                    Service.Message("User is not found.");
+                    break;
             }
         }
 
-        #region Command
+        private void SwitchWindow()
+        {
+            var main = new MainWindowView();
+            var window = Application.Current.Windows[0];
 
+            if (window != null)
+            {
+                main.Show();
+                window.Close();
+            }
+            Service.Message($"User {Login} authorization was successful.");
+        }
+
+        #region Command
         public RelayCommand LoginUsersCommand
             => _loginUsersCommand ?? (_loginUsersCommand = new RelayCommand(() =>
             {
@@ -57,7 +63,6 @@ namespace Client.ViewModel
             {
                 GeneralCommands.MiniApp();
             }));
-
         #endregion
     }
 }
